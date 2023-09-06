@@ -4,7 +4,7 @@ class script(object):
 ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ
 ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ
 
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/J_shree_ram">ɴᴏᴛʜɪɴɢ ʙʀᴏ</a></b> 😏</b>"""
+ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/i_manjot_sidhu">ɴᴏᴛʜɪɴɢ ʙʀᴏ</a></b> 😏</b>"""
 
     
     HELP_TXT = """<b>Hᴇʏ {}
@@ -12,7 +12,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>
  🤖 ᴍʏ ɴᴀᴍᴇ : {}
- 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/J_shree_ram'>ɴᴏᴛʜɪɴɢ ʙʀᴏ</a>
+ 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/i_manjot_sidhu'>ɴᴏᴛʜɪɴɢ ʙʀᴏ</a>
  📚 ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
  📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
  ♻️ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
@@ -20,8 +20,8 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  🥶 ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ3.0 [sᴛᴀʙʟᴇ​]</b>"""
 
     SOURCE_TXT = """
-<b>Tʜɪꜱ Bᴏᴛ Iꜱ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
-ꜱᴏᴜʀᴄᴇ : <a href='https://github.com/Singhsawan/PM-Shortner-Bot'>ʀᴇᴘᴏ ʟɪɴᴋ</a></b> 🙃</b>"""
+<b>Bot Repo Price 40Rs Fix Price.
+ꜱᴏᴜʀᴄᴇ : <a href='https://t.me/i_manjot_sidhu'>ʀᴇᴘᴏ ʟɪɴᴋ</a></b> 🙃</b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -42,7 +42,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/TeamHMT_Bots)</code>
+<code>[Button Text](buttonurl:https://t.me/Filmy_Pitaara2)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
